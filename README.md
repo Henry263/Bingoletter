@@ -25,6 +25,7 @@ JAR file is copied to the lib folder.
 If the classpath contains other types of files or folders, these files (folders)
 are not copied.
 * If a library on the projects classpath also has a Class-Path element
+* Adding comments.
 specified in the manifest,the content of the Class-Path element has to be on
 the projects runtime path.
 * To set a main class in a standard Java project, right-click the project node
